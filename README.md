@@ -1,8 +1,10 @@
 # Picture-in-Picture
 
+### [Live Site](https://tprafke.github.io/picture-in-picture/)
+
 ## Description
 
-A website built using JavaScript, HTML, and CSS that demos picture-in-picture functionality.
+A website built using JavaScript, HTML, and CSS that allows users to use picture-in-picture functionality on any website.
 
 ## Languages & Technologies
 
